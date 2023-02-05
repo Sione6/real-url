@@ -1,4 +1,4 @@
-# 获取虎牙直播的真实流媒体地址。
+# https://m.huya.com/99724?shareid=370918418765250728&shareUid=1793527465&source=ios&pid=1680925919&liveid=7196615654216431139&platform=7&from=cpy&invite_code=HY725kYv
 
 import requests
 import re
