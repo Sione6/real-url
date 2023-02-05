@@ -1,4 +1,4 @@
-# 获取虎牙直播的真实流媒体地址。
+# https://m.huya.com/688
 
 import requests
 import re
